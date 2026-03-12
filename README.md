@@ -1,13 +1,8 @@
-# Simple Interest Calculator
+Apache License
+Version 2.0, January 2004
 
-## Project Description
-A Bash script calculator that computes simple interest based on user input for principal amount, rate of interest, and time period.
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-## Features
-- Interactive user input
-- Simple interest calculation
-- Error handling for invalid inputs
-- Clear output formatting
-
-## Usage
-Run the script using: `./simple-interest.sh`
+1. Definitions
+"License" shall mean the terms and conditions for use, reproduction, and distribution...
+[Include all required sections: Definitions, Grant of Copyright License, Grant of Patent License, Redistribution, Submission of Contributions, Trademarks, Disclaimer of Warranty, Limitation of Liability, Accepting Warranty or Additional Liability]
