@@ -1,13 +1,12 @@
-# Simple Interest Calculator
+# Contributing to Simple Interest Calculator
 
-## Project Description
-A Bash script calculator that computes simple interest based on user input for principal amount, rate of interest, and time period.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-## Features
-- Interactive user input
-- Simple interest calculation
-- Error handling for invalid inputs
-- Clear output formatting
+## How to Contribute
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
 
-## Usage
-Run the script using: `./simple-interest.sh`
+## Reporting Issues
+Please use the GitHub issue tracker to report bugs or suggest enhancements.
