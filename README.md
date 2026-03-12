@@ -1,12 +1,26 @@
-# Contributing to Simple Interest Calculator
+#!/bin/bash
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+# Simple Interest Calculator
 
-## How to Contribute
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+echo "Simple Interest Calculator"
+echo "=========================="
 
-## Reporting Issues
-Please use the GitHub issue tracker to report bugs or suggest enhancements.
+# Read principal amount
+read -p "Enter principal amount: " principal
+
+# Read rate of interest
+read -p "Enter rate of interest (in %): " rate
+
+# Read time period
+read -p "Enter time period (in years): " time
+
+# Calculate simple interest
+interest=$(echo "scale=2; $principal * $rate * $time / 100" | bc)
+
+# Display result
+echo "=========================="
+echo "Principal: $ $principal"
+echo "Rate: $rate%"
+echo "Time: $time years"
+echo "Simple Interest: $ $interest"
+echo "Total Amount: $ $(echo "scale=2; $principal + $interest" | bc)"
