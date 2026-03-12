@@ -1,13 +1,22 @@
-# Simple Interest Calculator
+# Contributor Covenant Code of Conduct
 
-## Project Description
-A Bash script calculator that computes simple interest based on user input for principal amount, rate of interest, and time period.
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community...
 
-## Features
-- Interactive user input
-- Simple interest calculation
-- Error handling for invalid inputs
-- Clear output formatting
+## Our Standards
+Examples of behavior that contributes to a positive environment...
 
-## Usage
-Run the script using: `./simple-interest.sh`
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards...
+
+## Scope
+This Code of Conduct applies within all community spaces...
+
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported...
+
+## Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines...
+
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant...
